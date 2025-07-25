@@ -1,0 +1,35 @@
+{
+  "item": {
+    "name": "学习盒子-高中版",
+    "description": "超实用的学习工具！包含各种使用功能，所有功能都很实用，无水货！当前的功能列表如下:80+篇英语作文及翻译,约1800个英语单词及翻译,126条语文名言警句及解析,76种化学元素及详细介绍,高中重点文言文必备内容,高中所有必背物理公式,高中所有必背数学公式,高中所有重点历史事件。",
+    "preview": [
+      "1.jpg"
+    ],
+    "icon": "logo.png",
+    "source_url": "",
+    "author": [
+      {
+        "name": "HiXiaomi",
+        "author_url": "https://aiqming.xyz"
+      }
+    ]
+  },
+  "downloads": {
+    "n66": {
+      "version": "3.0",
+      "file_name": "n66.bin"
+    },
+    "o66": {
+      "version": "3.0",
+      "file_name": "n66.bin"
+    },
+    "o66nfc": {
+      "version": "3.0",
+      "file_name": "n66.bin"
+    },
+    "n67": {
+      "version": "3.0",
+      "file_name": "n67.bin"
+    }
+  }
+}
